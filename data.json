@@ -1,0 +1,34 @@
+[
+    {
+        "team": "test_team",
+        "label": "These are some OKRs",
+        "okrs": [{
+            "objective": "A",
+            "title": "An Objective",
+            "krs": [
+                {
+                    "id": "A1",
+                    "description": "Bacon ipsum dolor amet cow tri-tip t-bone, ground round tongue meatloaf drumstick frankfurter pork chop",
+                    "deadline": "",
+                    "completion": "100%",
+                    "score": "1.0"
+                },
+                {
+                    "id": "A2",
+                    "description": "Tri-tip ham hock prosciutto pastrami, short loin meatloaf kevin.",
+                    "deadline": "2/16",
+                    "completion": "60%",
+                    "score": "0.6"
+                },
+                {
+                    "id": "A3",
+                    "description": "Esse do flank ex.",
+                    "deadline": "",
+                    "completion": "100%",
+                    "score": "1.0"
+                }
+            ]
+        }
+        ]
+    }
+]
